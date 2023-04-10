@@ -1,6 +1,18 @@
 {
-    "applinks": {
-        "apps":[],
-        "details": [{"appID":"7F9S2T774W.com.enfa.geniusbaby", "paths": ["*"]}]
-    }
+  "webcredentials": {
+    "apps": [
+      "LF25YG6Y89.de.saphir.software.planmanagement",
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LF25YG6Y89.de.saphir.software.planmanagement",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
